@@ -34,7 +34,7 @@ This background will be applied to all shared screens (home, viewer, favorites).
 #### 🖼 App Logo
 Add your app logo as:
 ```
-logo_app.png
+app_logo.png
 ```
 Shown automatically on the home screen.
 
