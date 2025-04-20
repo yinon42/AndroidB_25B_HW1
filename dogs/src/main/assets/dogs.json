@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Golden Retriever",
+    "description": "A loyal and intelligent dog, loves children and brings joy.",
+    "imageUrl": "https://png.pngtree.com/png-vector/20240208/ourmid/pngtree-cute-golden-retriever-dog-png-image_11717250.png"
+  },
+  {
+    "title": "Bulldog",
+    "description": "Stocky and calm, loves cuddles and relaxed environments.",
+    "imageUrl": "https://i.pinimg.com/736x/8c/a8/2d/8ca82d674f4e567602668b37171c2cdf.jpg"
+  },
+  {
+    "title": "Labrador Retriever",
+    "description": "Friendly, outgoing and high-spirited companion.",
+    "imageUrl": "https://cdn.shopify.com/s/files/1/0565/8021/0861/files/Downloader_17.png?v=1687332270"
+  },
+  {
+    "title": "German Shepherd",
+    "description": "Confident and smart working dog with protective instincts.",
+    "imageUrl": "https://i.pinimg.com/474x/ac/00/5a/ac005a41f3c4941145b6d4c15f5dfd45.jpg"
+  },
+  {
+    "title": "Poodle",
+    "description": "Elegant, proud, and extremely intelligent.",
+    "imageUrl": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L2ZyZG9nX3BsYXlpbmdfZG9nX3BldF8xLWltYWdlXzEucG5n.png"
+  },
+  {
+    "title": "Beagle",
+    "description": "Curious and merry scent hound, great with families.",
+    "imageUrl": "https://p7.hiclipart.com/preview/903/33/65/beagle-harrier-american-foxhound-english-foxhound-dogs-and-cats.jpg"
+  },
+  {
+    "title": "Rottweiler",
+    "description": "Strong, confident and courageous with a soft side.",
+    "imageUrl": "https://png.pngtree.com/png-vector/20240704/ourlarge/pngtree-puppy-rottweiler-png-image_12979699.png"
+  },
+  {
+    "title": "Shih Tzu",
+    "description": "Lively and alert, known for its gorgeous coat and charm.",
+    "imageUrl": "https://toppng.com/uploads/preview/shih-tzu-shih-tzu-stock-11562983707akabdyxags.png"
+  },
+  {
+    "title": "Dalmatian",
+    "description": "Energetic and graceful with a unique spotted coat.",
+    "imageUrl": "https://i.pinimg.com/736x/9a/b0/6c/9ab06c15f7748a8b8cf5a3602f013c17.jpg"
+  },
+  {
+    "title": "Siberian Husky",
+    "description": "Friendly and free-spirited, known for its blue eyes.",
+    "imageUrl": "https://img.freepik.com/premium-psd/siberian-husky-dog-clipart-png_679658-53268.jpg?w=360"
+  },
+  {
+    "title": "Cocker Spaniel",
+    "description": "Gentle and affectionate with a beautiful wavy coat.",
+    "imageUrl": "https://w7.pngwing.com/pngs/270/202/png-transparent-american-cocker-spaniel-english-cocker-spaniel-english-springer-spaniel-puppy-puppy-animals-carnivoran-pet-thumbnail.png"
+  },
+  {
+    "title": "Pomeranian",
+    "description": "Small in size but full of personality and fluff.",
+    "imageUrl": "https://img.freepik.com/premium-psd/pomeranian-dog-isolated-transparent-background-cute-small-pet_220739-21068.jpg"
+  },
+  {
+    "title": "Doberman",
+    "description": "Alert, fearless and loyal with a sleek silhouette.",
+    "imageUrl": "https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA5L2ZyeW9ya3NoaXJlX3RlcnJpZXJfZG9iZXJtYW5fZG9nc18xLWltYWdlLTAxLWpvYjEyMDlfMS5wbmc.png"
+  },
+  {
+    "title": "Great Dane",
+    "description": "Gentle giant, friendly and dependable family companion.",
+    "imageUrl": "https://png.pngtree.com/png-vector/20240928/ourlarge/pngtree-great-danes-dog-isolated-on-white-transparent-background-png-image_13980421.png"
+  },
+  {
+    "title": "Pug",
+    "description": "Charming and mischievous with a wrinkled face.",
+    "imageUrl": "https://img.freepik.com/premium-psd/pug-dog-breedon-transparent-background_1279579-9126.jpg"
+  }
+]
