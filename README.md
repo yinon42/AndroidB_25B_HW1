@@ -91,6 +91,6 @@ public static final String JSON_FILE_NAME = "dogs.json"; // or "sneakers.json"
 - Remote data from Firebase or API
 - Search or filter within favorites
 
-##Dogs app demo: https://drive.google.com/file/d/1sAI5oYctI0-pC8q6OLHmwaDbJv-lc4en/view?usp=sharing
+## Dogs app demo: https://drive.google.com/file/d/1sAI5oYctI0-pC8q6OLHmwaDbJv-lc4en/view?usp=sharing
 
-##Sneakers app demo: https://drive.google.com/file/d/1wrXn2GZxOtBNjg6_9p59c7mmLSHZ4kPE/view?usp=sharing 
+## Sneakers app demo: https://drive.google.com/file/d/1wrXn2GZxOtBNjg6_9p59c7mmLSHZ4kPE/view?usp=sharing 
