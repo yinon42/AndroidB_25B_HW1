@@ -97,7 +97,7 @@ public static final String JSON_FILE_NAME = "dogs.json"; // or "sneakers.json"
 ## Sneakers app demo
 - https://drive.google.com/file/d/1wrXn2GZxOtBNjg6_9p59c7mmLSHZ4kPE/view?usp=sharing
 
-
+## Dogs app screenshpts
 ![image](https://github.com/user-attachments/assets/33336798-2940-406b-be3c-0559db1dbe3e)
 ![image](https://github.com/user-attachments/assets/24242b3d-0c70-4820-a8aa-392c75ae2f5a)
 
