@@ -12,16 +12,23 @@ A beautifully designed screen that displays:
 - Navigation controls:
   - **NEXT / BACK** buttons
   - **Favorites toggle (heart icon)** stored using SharedPreferences
-  - **Share** button to copy a screenshot to clipboard
+  - **Share Screenshot** button to copy a visual snapshot of the screen to clipboard
 - Smooth fade-in animations for image and text
 
-### 2. Favorites Screen
+### 2. Screenshot Sharing
+- Tapping the **Share** button captures the entire current screen
+- The image is saved temporarily in the device's cache
+- A URI to the image is copied to the clipboard using FileProvider
+- The user receives a confirmation toast ("Screenshot copied to clipboard")
+- Useful for sharing content in social apps, chat, or email
+
+### 3. Favorites Screen
 - Lists all favorited items
 - Clicking an item opens it in the viewer
 - Uses the same design as InfoViewerActivity
 - Automatically restores favorites using local storage
 
-### 3. Dynamic Branding Support (per-app customization)
+### 4. Dynamic Branding Support (per-app customization)
 To allow reuse across different apps (e.g., Dogs, Sneakers), each app must supply:
 
 #### 🎨 App Background
